@@ -1,3 +1,6 @@
 # ninja log v5
 1	572	7211464296286069	CMakeFiles/C_Programming.dir/A_01.c.obj	3f3cab56bc6b0c25
 574	878	7211464299298655	C_Programming.exe	9b6e6150d73f9937
+2	413	7211468727686640	build.ninja	f9471bbfc9833521
+1	516	7211468733574029	CMakeFiles/C_Programming.dir/A_02.c.obj	6e701393c4b05e51
+516	798	7211468736297019	C_Programming.exe	dc4f60e065bfc2ee
